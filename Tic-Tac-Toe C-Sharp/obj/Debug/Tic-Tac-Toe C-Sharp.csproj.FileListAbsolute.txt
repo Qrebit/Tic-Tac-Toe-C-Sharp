@@ -1,0 +1,7 @@
+C:\Users\ipetr\Desktop\Новая папка (2)\Tic-Tac-Toe C-Sharp\Tic-Tac-Toe C-Sharp\obj\Debug\Tic-Tac-Toe C-Sharp.csprojAssemblyReference.cache
+C:\Users\ipetr\Desktop\Новая папка (2)\Tic-Tac-Toe C-Sharp\Tic-Tac-Toe C-Sharp\obj\Debug\Tic-Tac-Toe C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\ipetr\Desktop\Новая папка (2)\Tic-Tac-Toe C-Sharp\Tic-Tac-Toe C-Sharp\bin\Debug\Tic-Tac-Toe C-Sharp.exe.config
+C:\Users\ipetr\Desktop\Новая папка (2)\Tic-Tac-Toe C-Sharp\Tic-Tac-Toe C-Sharp\bin\Debug\Tic-Tac-Toe C-Sharp.exe
+C:\Users\ipetr\Desktop\Новая папка (2)\Tic-Tac-Toe C-Sharp\Tic-Tac-Toe C-Sharp\bin\Debug\Tic-Tac-Toe C-Sharp.pdb
+C:\Users\ipetr\Desktop\Новая папка (2)\Tic-Tac-Toe C-Sharp\Tic-Tac-Toe C-Sharp\obj\Debug\Tic-Tac-Toe C-Sharp.exe
+C:\Users\ipetr\Desktop\Новая папка (2)\Tic-Tac-Toe C-Sharp\Tic-Tac-Toe C-Sharp\obj\Debug\Tic-Tac-Toe C-Sharp.pdb
