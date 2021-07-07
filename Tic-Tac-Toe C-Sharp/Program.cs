@@ -9,6 +9,7 @@ namespace Tic_Tac_Toe_C_Sharp
 	//Изменяю
     class Program
     {
+
 		static void Main(string[] args)
 		{
 			Random rnd = new Random();
